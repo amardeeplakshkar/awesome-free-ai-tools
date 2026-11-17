@@ -4,10 +4,10 @@
 [![License: CC0](https://img.shields.io/badge/license-CC0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Entries](https://img.shields.io/badge/entries-20-orange.svg)]()
 
-> Free AI tools that aren't chatbots. Curated, simple, and free to use — one line per entry.
+> Free AI tools that aren't chatbots. Curated, simple, and free to use - one line per entry.
 
 ## Why This List
-Search volume for "free AI tool for X" is enormous, but most lists are SEO spam. A clean, honest, no-card-needed list from a real person stands out — and it's the closest cousin to the free LLM APIs list.
+Search volume for "free AI tool for X" is enormous, but most lists are SEO spam. A clean, honest, no-card-needed list from a real person stands out - and it's the closest cousin to the free LLM APIs list.
 
 ## Contents
 - [Images](#images)
@@ -52,4 +52,4 @@ Search volume for "free AI tool for X" is enormous, but most lists are SEO spam.
 See CONTRIBUTING.md. The short version: fork this repo, add your entry as one line in the right table, open a pull request. Rules: the tool must have a real free tier, no credit card required. No trial-only tools. One entry per tool.
 
 ## License
-[CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) — public domain. Use freely, no attribution required.
+[CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)- public domain. Use freely, no attribution required.
