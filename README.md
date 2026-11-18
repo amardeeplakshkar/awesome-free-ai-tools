@@ -47,6 +47,7 @@ Search volume for "free AI tool for X" is enormous, but most lists are SEO spam.
 | [DeepL](https://www.deepl.com/) | Natural-sounding AI translation |
 | [Grammarly](https://www.grammarly.com/) | Grammar, clarity, tone checks everywhere |
 | [Gamma](https://gamma.app/) | AI presentations from a prompt |
+| [JournalCompass](https://journalcompass.com/) | Free bilingual search across 43,499 journals with CAS tiers, impact factors, review times and AI journal matching |
 
 ## Contributing
 See CONTRIBUTING.md. The short version: fork this repo, add your entry as one line in the right table, open a pull request. Rules: the tool must have a real free tier, no credit card required. No trial-only tools. One entry per tool.
