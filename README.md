@@ -45,6 +45,7 @@ Search volume for "free AI tool for X" is enormous, but most lists are SEO spam.
 | [Perplexity](https://www.perplexity.ai/) | AI answers with sources, free to use |
 | [NotebookLM](https://notebooklm.google.com/) | Chat with your own documents, free |
 | [DeepL](https://www.deepl.com/) | Natural-sounding AI translation |
+| [ChatSequel](https://chromewebstore.google.com/detail/cdkihfdcmchokmfbpeglffiiknmmjdcj) | Free Chrome extension for timed ChatGPT continuation, per-tab controls, and long-chat context handoff |
 | [Grammarly](https://www.grammarly.com/) | Grammar, clarity, tone checks everywhere |
 | [Gamma](https://gamma.app/) | AI presentations from a prompt |
 | [JournalCompass](https://journalcompass.com/) | Free bilingual search across 43,499 journals with CAS tiers, impact factors, review times and AI journal matching |
