@@ -2,7 +2,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg)](https://github.com/amardeeplakshkar/awesome-free-ai-tools/pulls)
 [![License: CC0](https://img.shields.io/badge/license-CC0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-[![Entries](https://img.shields.io/badge/entries-20-orange.svg)]()
+[![Entries](https://img.shields.io/badge/entries-24-orange.svg)]()
 
 > Free AI tools that aren't chatbots. Curated, simple, and free to use - one line per entry.
 
@@ -24,6 +24,7 @@ Search volume for "free AI tool for X" is enormous, but most lists are SEO spam.
 | [Leonardo](https://leonardo.ai/) | Generate images on a daily free plan |
 | [Ideogram](https://ideogram.ai/) | Images with readable text inside |
 | [Krea](https://www.krea.ai/) | Real-time image generation while sketching |
+| [Hydrilla](https://hydrilla.ai) | Turn a prompt or photo into a 3D model, free monthly credits |
 
 ## Video and Audio
 | Tool | What it does |
@@ -38,6 +39,7 @@ Search volume for "free AI tool for X" is enormous, but most lists are SEO spam.
 | [ElevenLabs](https://elevenlabs.io/) | Text-to-speech with a free tier |
 | [Suno](https://suno.com/) | Make a song from a text prompt |
 | [Otter.ai](https://otter.ai/) | Live meeting transcription and notes |
+| [Yogurt](https://yogurt.so) | Free, private meeting notes that run on your computer |
 
 ## Writing and Study
 | Tool | What it does |
