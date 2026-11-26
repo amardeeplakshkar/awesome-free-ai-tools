@@ -2,7 +2,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg)](https://github.com/amardeeplakshkar/awesome-free-ai-tools/pulls)
 [![License: CC0](https://img.shields.io/badge/license-CC0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-[![Entries](https://img.shields.io/badge/entries-24-orange.svg)]()
+[![Entries](https://img.shields.io/badge/entries-26-orange.svg)]()
 
 > Free AI tools that aren't chatbots. Curated, simple, and free to use - one line per entry.
 
@@ -40,6 +40,8 @@ Search volume for "free AI tool for X" is enormous, but most lists are SEO spam.
 | [Suno](https://suno.com/) | Make a song from a text prompt |
 | [Otter.ai](https://otter.ai/) | Live meeting transcription and notes |
 | [Yogurt](https://yogurt.so) | Free, private meeting notes that run on your computer |
+| [Editroom](https://github.com/robbietilton/Editroom) | Free Mac video editor with AI Magic edits, transcript search and an on-device option, free and open source |
+| [NeonClipping](https://github.com/iamajmeena/neonclipping) | Turns long videos into captioned vertical clips locally with a title and hook per clip, free and open source, no account |
 
 ## Writing and Study
 | Tool | What it does |
