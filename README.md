@@ -2,7 +2,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg)](https://github.com/amardeeplakshkar/awesome-free-ai-tools/pulls)
 [![License: CC0](https://img.shields.io/badge/license-CC0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-[![Entries](https://img.shields.io/badge/entries-26-orange.svg)]()
+[![Entries](https://img.shields.io/badge/entries-28-orange.svg)]()
 
 > Free AI tools that aren't chatbots. Curated, simple, and free to use - one line per entry.
 
@@ -40,8 +40,9 @@ Search volume for "free AI tool for X" is enormous, but most lists are SEO spam.
 | [Suno](https://suno.com/) | Make a song from a text prompt |
 | [Otter.ai](https://otter.ai/) | Live meeting transcription and notes |
 | [Yogurt](https://yogurt.so) | Free, private meeting notes that run on your computer |
-| [Editroom](https://github.com/robbietilton/Editroom) | Free Mac video editor with AI Magic edits, transcript search and an on-device option, free and open source |
-| [NeonClipping](https://github.com/iamajmeena/neonclipping) | Turns long videos into captioned vertical clips locally with a title and hook per clip, free and open source, no account |
+| [Editroom](https://github.com/robbietilton/Editroom) | Free Mac video editor with AI Magic edits, transcripts and colour tools |
+| [NeonClipping](https://github.com/iamajmeena/neonclipping) | Turns long videos into captioned vertical clips with face tracking, free and open source |
+| [Animix Studio](https://animix.studio/pricing) | Turn an idea into an editable video, design or 3D booth, free plan with 50 credits a month |
 
 ## Writing and Study
 | Tool | What it does |
@@ -49,13 +50,14 @@ Search volume for "free AI tool for X" is enormous, but most lists are SEO spam.
 | [Perplexity](https://www.perplexity.ai/) | AI answers with sources, free to use |
 | [NotebookLM](https://notebooklm.google.com/) | Chat with your own documents, free |
 | [DeepL](https://www.deepl.com/) | Natural-sounding AI translation |
-| [ChatSequel](https://chromewebstore.google.com/detail/cdkihfdcmchokmfbpeglffiiknmmjdcj) | Free Chrome extension for timed ChatGPT continuation, per-tab controls, and long-chat context handoff |
+| [ChatSequel](https://chromewebstore.google.com/detail/cdkihfdcmchokmfbpeglffiiknmmjdcj) | Free Chrome extension that gives ChatGPT a searchable sidebar with folders, bookmarks and PDF export |
 | [Grammarly](https://www.grammarly.com/) | Grammar, clarity, tone checks everywhere |
 | [Gamma](https://gamma.app/) | AI presentations from a prompt |
-| [JournalCompass](https://journalcompass.com/) | Free bilingual search across 43,499 journals with CAS tiers, impact factors, review times and AI journal matching |
+| [JournalCompass](https://journalcompass.com/) | Free bilingual search across 43,499 journals with CAS quartile and JCR metrics |
+| [Meboki](https://meboki.com/) | Offline Mac grammar checker with a local model, free hotkey mode and GPL-3.0 source |
 
 ## Contributing
-See CONTRIBUTING.md. The short version: fork this repo, add your entry as one line in the right table, open a pull request. Rules: the tool must have a real free tier, no credit card required. No trial-only tools. One entry per tool.
+See CONTRIBUTING.md. The short version: fork this repo, add your entry as one line in the right table, open a pull request. The tool must have a real free tier you can use without a card. One entry per tool.
 
 ## License
-[CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)- public domain. Use freely, no attribution required.
+[CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - public domain. Use freely, no attribution needed.
